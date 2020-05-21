@@ -9,6 +9,7 @@ verify_ssl = true
 pytesseract = "*"
 pil = "*"
 image = "*"
+re = "*"
 
 [requires]
 python_version = "3.7"
